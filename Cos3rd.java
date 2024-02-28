@@ -20,7 +20,7 @@ class Cos3rd extends ConsoleProgram {
     dblSideC = Math.sqrt(Math.pow(dblSideA, 2) + Math.pow(dblSideB, 2) - 2 * dblSideA * dblSideB * Math.cos(dblAngleC));
 
     System.out.println("The Length of Side C is: " + dblSideC);
-
+//Great work!
 
     
 

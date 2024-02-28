@@ -13,7 +13,7 @@ class Circumference extends ConsoleProgram {
 
       dblRad = readDouble("Please enter the radius: ");
 
-
+// Could label/declare variables in full words
       dblCircum  = Math.PI * 2 * dblRad;
 
       System.out.println("The circumference of the circle is: " + dblCircum);
